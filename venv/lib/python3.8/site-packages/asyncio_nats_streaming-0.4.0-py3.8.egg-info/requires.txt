@@ -1,0 +1,2 @@
+protobuf>=3.7
+asyncio-nats-client>=0.7.0

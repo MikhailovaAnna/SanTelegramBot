@@ -1,0 +1,2 @@
+aiohttp>=0.21.6
+aiohttp-session>=0.5
